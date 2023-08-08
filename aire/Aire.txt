@@ -1,0 +1,622 @@
+
+        ********************************************************************
+
+        // Nombre: keison cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: 3
+
+        // instalacion: No
+
+        // El recibo sin itebis es: 0
+
+        // El itebis es: 0.0
+
+        // El recibo con itebis es: 0.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: 2
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 250
+
+        // El itebis es: 50.0
+
+        // El recibo con itebis es: 300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Samsu
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 40250
+
+        // El itebis es: 8050.0
+
+        // El recibo con itebis es: 48300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Mitsubishi Electric
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 60250
+
+        // El itebis es: 12050.0
+
+        // El recibo con itebis es: 72300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: Jose manuel
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Mitsubishi Electric
+
+        // instalacion: No
+
+        // El recibo sin itebis es: 60000
+
+        // El itebis es: 12000.0
+
+        // El recibo con itebis es: 72000.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Samsu
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 40250
+
+        // El itebis es: 8050.0
+
+        // El recibo con itebis es: 48300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Mitsubishi Electric
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 60250
+
+        // El itebis es: 12050.0
+
+        // El recibo con itebis es: 72300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Samsu
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 40250
+
+        // El itebis es: 8050.0
+
+        // El recibo con itebis es: 48300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Samsu
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 40250
+
+        // El itebis es: 8050.0
+
+        // El recibo con itebis es: 48300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Mitsubishi Electric
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 60250
+
+        // El itebis es: 12050.0
+
+        // El recibo con itebis es: 72300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Mitsubishi Electric
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 60250
+
+        // El itebis es: 12050.0
+
+        // El recibo con itebis es: 72300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: Keison
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Mitsubishi Electric
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 60250
+
+        // El itebis es: 12050.0
+
+        // El recibo con itebis es: 72300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: Keison
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Samsung
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 40250
+
+        // El itebis es: 8050.0
+
+        // El recibo con itebis es: 48300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Samsung
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 40250
+
+        // El itebis es: 8050.0
+
+        // El recibo con itebis es: 48300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Mitsubishi Electric
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 60250
+
+        // El itebis es: 12050.0
+
+        // El recibo con itebis es: 72300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Inverter
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 14250
+
+        // El itebis es: 2850.0
+
+        // El recibo con itebis es: 17100.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Samsung
+
+        // instalacion: 3
+
+        // El recibo sin itebis es: 40000
+
+        // El itebis es: 8000.0
+
+        // El recibo con itebis es: 48000.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Samsung
+
+        // instalacion: 1
+
+        // El recibo sin itebis es: 40000
+
+        // El itebis es: 8000.0
+
+        // El recibo con itebis es: 48000.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Samsung
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 40250
+
+        // El itebis es: 8050.0
+
+        // El recibo con itebis es: 48300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: key
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Inverter
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 14250
+
+        // El itebis es: 2850.0
+
+        // El recibo con itebis es: 17100.0
+
+        ********************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+              while usuario not in Aire:
+            print("Nombre no registrado en la base de datos")
+            usuario = (input("Por favor ingrese otra vez su nombre y apellido con el que se ha registrado anteriormente: "))
+        ********************************************************************
+
+        // Nombre: keison
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Samsung
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 40250
+
+        // El itebis es: 8050.0
+
+        // El recibo con itebis es: 48300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: kei
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Samsung
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 40250
+
+        // El itebis es: 8050.0
+
+        // El recibo con itebis es: 48300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: kei
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Inverter
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 14250
+
+        // El itebis es: 2850.0
+
+        // El recibo con itebis es: 17100.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: kei
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Mitsubishi Electric
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 60250
+
+        // El itebis es: 12050.0
+
+        // El recibo con itebis es: 72300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison ceida
+
+        // fecha de la venta:  27/1/2022
+
+        // El aire acondicionado elejido es: Inverter
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 14250
+
+        // El itebis es: 2850.0
+
+        // El recibo con itebis es: 17100.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison ceida
+
+        // fecha de la venta:  21/1/2022
+
+        // El aire acondicionado elejido es: Samsung
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 40250
+
+        // El itebis es: 8050.0
+
+        // El recibo con itebis es: 48300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Inverter
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 14250
+
+        // El itebis es: 2850.0
+
+        // El recibo con itebis es: 17100.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: lol
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Inverter
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 14250
+
+        // El itebis es: 2850.0
+
+        // El recibo con itebis es: 17100.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: kiara Nova
+
+        // fecha de la venta:  12/1/2022
+
+        // El aire acondicionado elejido es: Samsung
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 40250
+
+        // El itebis es: 8050.0
+
+        // El recibo con itebis es: 48300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison
+
+        // fecha de la venta:  20/1/2022
+
+        // El aire acondicionado elejido es: Samsung
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 40250
+
+        // El itebis es: 8050.0
+
+        // El recibo con itebis es: 48300.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: angel gonzalez
+
+        // fecha de la venta:  1/1/2022
+
+        // El aire acondicionado elejido es: Inverter
+
+        // instalacion: Si
+
+        // El recibo sin itebis es: 14250
+
+        // El itebis es: 2850.0
+
+        // El recibo con itebis es: 17100.0
+
+        ********************************************************************
+        

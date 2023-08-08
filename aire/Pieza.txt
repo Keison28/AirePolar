@@ -1,0 +1,369 @@
+
+        ********************************************************************
+
+        // Nombre: keison
+
+        // fecha de la vena:  20/1/2022
+
+        // La pieza elejida es: 2
+
+        // El recibo sin itebis es: 120
+
+        // El itebis es: 24.0
+
+        // El recibo con itebis es: 144.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison Cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: 1
+
+        // El recibo sin itebis es: 2200
+
+        // El itebis es: 440.0
+
+        // El recibo con itebis es: 2640.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Ductos
+
+        // El recibo sin itebis es: 2400
+
+        // El itebis es: 480.0
+
+        // El recibo con itebis es: 2880.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: 6
+
+        // El recibo sin itebis es: 13000
+
+        // El itebis es: 2600.0
+
+        // El recibo con itebis es: 15600.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: kei
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Soplador o Ventilador
+
+        // El recibo sin itebis es: 2600
+
+        // El itebis es: 520.0
+
+        // El recibo con itebis es: 3120.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Compresor
+
+        // El recibo sin itebis es: 2400
+
+        // El itebis es: 480.0
+
+        // El recibo con itebis es: 2880.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Compresor
+
+        // El recibo sin itebis es: 1200
+
+        // El itebis es: 240.0
+
+        // El recibo con itebis es: 1440.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Compresor
+
+        // El recibo sin itebis es: 2400
+
+        // El itebis es: 480.0
+
+        // El recibo con itebis es: 2880.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison cerda
+
+        // fecha de la venta:  17/1/2022
+
+        // La pieza elejida es: Ductos
+
+        // El recibo sin itebis es: 2400
+
+        // El itebis es: 480.0
+
+        // El recibo con itebis es: 2880.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keisoon
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Compresor
+
+        // El recibo sin itebis es: 24360
+
+        // El itebis es: 4872.0
+
+        // El recibo con itebis es: 29232.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: KEISON cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Compresor
+
+        // El recibo sin itebis es: 120000000000000000
+
+        // El itebis es: 2.4e+16
+
+        // El recibo con itebis es: 1.44e+17
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: KEISON
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Compresor
+
+        // El recibo sin itebis es: 2400
+
+        // El itebis es: 480.0
+
+        // El recibo con itebis es: 2880.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: Keison cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Condensador
+
+        // El recibo sin itebis es: 2200
+
+        // El itebis es: 440.0
+
+        // El recibo con itebis es: 2640.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Termostato
+
+        // El recibo sin itebis es: 2200
+
+        // El itebis es: 440.0
+
+        // El recibo con itebis es: 2640.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Condensador
+
+        // El recibo sin itebis es: 2200
+
+        // El itebis es: 440.0
+
+        // El recibo con itebis es: 2640.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keion cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Compresor
+
+        // El recibo sin itebis es: 2400
+
+        // El itebis es: 480.0
+
+        // El recibo con itebis es: 2880.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison cerda
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Termostato
+
+        // El recibo sin itebis es: 2200
+
+        // El itebis es: 440.0
+
+        // El recibo con itebis es: 2640.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: juab
+
+        // fecha de la venta:  20/1/2021
+
+        // La pieza elejida es: Termostato
+
+        // El recibo sin itebis es: 220
+
+        // El itebis es: 44.0
+
+        // El recibo con itebis es: 264.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: lol
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Condensador
+
+        // El recibo sin itebis es: 220
+
+        // El itebis es: 44.0
+
+        // El recibo con itebis es: 264.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: 20
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Dispositivo de Expansión
+
+        // El recibo sin itebis es: 11570
+
+        // El itebis es: 2314.0
+
+        // El recibo con itebis es: 13884.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: keison ceida
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Condensador
+
+        // El recibo sin itebis es: 2200
+
+        // El itebis es: 440.0
+
+        // El recibo con itebis es: 2640.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: Ernesto sancez
+
+        // fecha de la venta:  20/1/2022
+
+        // La pieza elejida es: Ventilador
+
+        // El recibo sin itebis es: 1310
+
+        // El itebis es: 262.0
+
+        // El recibo con itebis es: 1572.0
+
+        ********************************************************************
+        
+        ********************************************************************
+
+        // Nombre: kiara Nova
+
+        // fecha de la venta:  12/1/2022
+
+        // La pieza elejida es: Compresor
+
+        // El recibo sin itebis es: 600
+
+        // El itebis es: 120.0
+
+        // El recibo con itebis es: 720.0
+
+        ********************************************************************
+        
